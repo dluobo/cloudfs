@@ -1,3 +1,8 @@
+##声明
+本Repository是为了方便访问而设立的，本人不是代码作者，原代码托管于git.oschina.net
+使用此代码请遵循原代码使用的许可，访问最新代码请移步http://git.oschina.net/weiweibaba2007/cloudfs
+本人不对代码内容负任何责任，且不保证会同步更新代码内容。
+
 #cloudfs
 
 ##使用说明
